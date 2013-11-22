@@ -31,5 +31,5 @@ You can split web2py/applications folder in two parts :
     |_...
     |_create_junctions.bat
 ```    
-Then, simply run "create_junctions.bat" in web2py_apps folder, and you will be able to access to your apps as if they were directly in web2py/applications
+Then, simply run "create_junctions.bat" on Windows or "create_symlinks.sh" on linux in web2py_apps folder, and you will be able to access to your apps as if they were directly in web2py/applications
 
